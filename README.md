@@ -3,7 +3,7 @@
 ## Description
 This website is a landing page for Anita's kitchen.
 It has been developed using bootstrap, CSS and Html.
-Link to Anitas page https://leezichanga.github.io/Anitas-kitchen/
+
 ### Getting Started
 
 ### Prerequisites
@@ -15,3 +15,6 @@ To download them one can use terminal by typing in sudo apt-get install
 
 ### Deployment
 Link to Anitas page https://leezichanga.github.io/Anitas-kitchen/
+
+### Author
+Elizabeth Ichang'a
